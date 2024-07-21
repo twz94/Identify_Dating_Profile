@@ -1,2 +1,2 @@
 # Identify_Dating_Profile
-Using of Scikit-learn to predict profile of users in a dating site.
+In this project, scikit-learn is used to predict profile of users in a dating site, as part of coursework.
